@@ -1,0 +1,22 @@
+{
+  "name": "pinkberry",
+  "displayName": "Pinkberry",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "icon": "berries.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pinkberry",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pinkberry-color-theme.json"
+      }
+    ]
+  }
+}
